@@ -1,3 +1,9 @@
 home:
   title:
     label: "Bienvenue les loulous!"
+
+
+tag:
+  form:
+    name:
+      label: "Nom du tag biaaaatch"
